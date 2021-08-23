@@ -1,5 +1,5 @@
-# CPSC-131-Project-3
-Valet Parking
+
+# Valet Parking
 
 Group members:
 
